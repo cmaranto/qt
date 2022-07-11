@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>quickimage.qml</file>
+    </qresource>
+    <qresource prefix="/images"/>
+</RCC>
